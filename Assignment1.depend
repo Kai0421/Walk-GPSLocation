@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1414847522 source:g:\projects\visual studio\c programming\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1415182512 source:e:\projects\visual studio\c programming\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
